@@ -10,13 +10,21 @@
 ### Documentation
 
 #### Code Blocks (Indented style)
+#### Import namespace.
+```csharp
+using BoldEncryption.Encryption;
+```
+#### Create new var.
+```csharp
+BoldEncryption.Encryption bold = new BoldEncryption.Encryption();
+```
 #### Encrypt
 
 ```csharp
-Encrypt("Hello World.");
+    string EncryptedString = bold.Encrypt("Hello World!");
 ```
 #### Decrypt
 
 ```csharp
-Decrypt("BoldEncryptedString");
+    string DecryptedString = bold.Encrypt("WeirdLookingString");
 ```
