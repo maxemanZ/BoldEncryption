@@ -9,7 +9,6 @@
 
 ### Documentation
 
-#### Code Blocks (Indented style)
 #### Import namespace.
 ```csharp
 using BoldEncryption.Encryption;
