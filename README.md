@@ -7,15 +7,15 @@
 ![](https://github.com/maxemanZ/BoldEncryption/blob/main/encrypt_96px.png?raw=true)
 
 
-###Documentation
+### Documentation
 
-####Code Blocks (Indented style)
-####Encrypt
+#### Code Blocks (Indented style)
+#### Encrypt
 
 ```csharp
 Encrypt("Hello World.");
 ```
-####Decrypt
+#### Decrypt
 
 ```csharp
 Decrypt("BoldEncryptedString");
